@@ -13,7 +13,7 @@
 <hr>
 <h1 align="center">Requisitos: 🖊</h1>
 <hr>
-<h1 align="center">Desafio Seven </h1>
+<h2 align="center">Desafio Seven </h2>
 <br>
 <h2>Função: Desenvolvedor backend</h2>
 <h2>Prazo para realização: 4 dias</h2>
