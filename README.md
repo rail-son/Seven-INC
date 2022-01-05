@@ -1,4 +1,19 @@
-<h1>Seven</h1>
+<h1 align="center">Employee Management API</h1> 
+
+<p>API desenvolvida por Railson da Silva Martins com o objetivo de fazer a criação de um novo módulo onde serão administrados os funcionários de uma empresa.</p>
+
+<p>No projeto foi feita a utilização do framework express para construção do servidor, dependências como body-parser para conversão e outros formatos, dotenv para leitura de arquivos '.env', mysql como banco de dados, cors e nodemon para reinicialização automática do servidor.</p>
+
+<p>Nesse repositório além do projeto, disponibilizei um vídeo onde mostro a API em funcionamento e disponibilizei o arquivo da criação do banco já com 2 usuários cadastrados para teste.</p>
+
+<p>Site utilizado para teste: https://resttesttest.com/</p>
+
+<p>Conclusão: 04/01/2022</p>
+
+<hr>
+<h1 align="center">Requisitos: 🖊</h1>
+<hr>
+<h1 align="center">Desafio Seven </h1>
 <br>
 <h2>Função: Desenvolvedor backend</h2>
 <h2>Prazo para realização: 4 dias</h2>
